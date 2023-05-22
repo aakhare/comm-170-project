@@ -1,0 +1,11 @@
+Model Information:
+* title:	Isometric bedroom
+* source:	https://sketchfab.com/3d-models/isometric-bedroom-3dd6ec4f4fd445ed88af394b387bde99
+* author:	giotuzzio (https://sketchfab.com/giotuzzio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Isometric bedroom" (https://sketchfab.com/3d-models/isometric-bedroom-3dd6ec4f4fd445ed88af394b387bde99) by giotuzzio (https://sketchfab.com/giotuzzio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
