@@ -1,0 +1,11 @@
+Model Information:
+* title:	coca cola
+* source:	https://sketchfab.com/3d-models/coca-cola-63e5bcd40d8d4ca697f5af67b682a082
+* author:	uriel_desing (https://sketchfab.com/thailineolivera)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "coca cola" (https://sketchfab.com/3d-models/coca-cola-63e5bcd40d8d4ca697f5af67b682a082) by uriel_desing (https://sketchfab.com/thailineolivera) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

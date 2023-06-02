@@ -26,6 +26,15 @@ public class recylableItems : MonoBehaviour
         else if (other.gameObject.GetComponent<bins>().binType == 2 && waste == 1) {
             currentScore.calculateScore(-1);
         }
+        else if (other.gameObject.GetComponent<bins>().binType == 0 && waste == 2) {
+            currentScore.calculateScore(-1);
+        }
+        else if (other.gameObject.GetComponent<bins>().binType == 1 && waste == 2) {
+            currentScore.calculateScore(-1);
+        }
+        else if (other.gameObject.GetComponent<bins>().binType == 2 && waste == 2) {
+            currentScore.calculateScore(1);
+        }
     }
     // Start is called before the first frame update
     void Start()
