@@ -2,11 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
+using System;
+
 public class score : MonoBehaviour
 {
     //public GameObject [] recyclableItems;
     public int scoreCount = 0; 
-    public Text scoreUI;
+    public TMP_Text scoreUI;
     public void calculateScore(int points){
         scoreCount += points;
     }
@@ -20,6 +23,6 @@ public class score : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        scoreUI.text = "Score: " + scoreCount;
+        scoreUI.text = "Score: " + scoreCount.ToString();
     }
 }
