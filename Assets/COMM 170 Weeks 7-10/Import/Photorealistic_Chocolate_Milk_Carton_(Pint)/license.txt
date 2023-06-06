@@ -1,0 +1,11 @@
+Model Information:
+* title:	Photorealistic Chocolate Milk Carton (Pint)
+* source:	https://sketchfab.com/3d-models/photorealistic-chocolate-milk-carton-pint-24fabdc961b844ab99a944dd7c56e2bd
+* author:	TrentPierce (https://sketchfab.com/TrentPierce)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Photorealistic Chocolate Milk Carton (Pint)" (https://sketchfab.com/3d-models/photorealistic-chocolate-milk-carton-pint-24fabdc961b844ab99a944dd7c56e2bd) by TrentPierce (https://sketchfab.com/TrentPierce) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
