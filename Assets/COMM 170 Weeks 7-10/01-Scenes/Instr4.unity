@@ -189,52 +189,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &822986194
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 822986196}
-  - component: {fileID: 822986195}
-  m_Layer: 0
-  m_Name: DialogueManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &822986195
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 822986194}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 928386bfc6cfb4ff68f00eefb36676f5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  DialogueText: {fileID: 1894036568}
---- !u!4 &822986196
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 822986194}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 424.25, y: 234.63928, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1051570399
 GameObject:
@@ -267,7 +222,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1151323820}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -342,7 +297,6 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1828099383}
   - {fileID: 2102835227}
   - {fileID: 1051570400}
   m_Father: {fileID: 1514277597}
@@ -604,7 +558,7 @@ RectTransform:
   m_Children:
   - {fileID: 1151323820}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -796,7 +750,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!114 &1689613910
 MonoBehaviour:
@@ -818,82 +772,6 @@ MonoBehaviour:
   m_ShadowLayerMask: 1
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
---- !u!1 &1828099382
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1828099383}
-  - component: {fileID: 1828099385}
-  - component: {fileID: 1828099384}
-  m_Layer: 5
-  m_Name: Image
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1828099383
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1828099382}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1151323820}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 205.297, y: 8.2436}
-  m_SizeDelta: {x: 434.7262, y: 479.99}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1828099384
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1828099382}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 788464eccb106493aa10af9ff59d5892, type: 3}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1828099385
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1828099382}
-  m_CullTransparentMesh: 1
 --- !u!1 &1894036566
 GameObject:
   m_ObjectHideFlags: 0
@@ -905,9 +783,8 @@ GameObject:
   - component: {fileID: 1894036567}
   - component: {fileID: 1894036569}
   - component: {fileID: 1894036568}
-  - component: {fileID: 1894036570}
   m_Layer: 5
-  m_Name: DialogueText
+  m_Name: Text (Legacy)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -930,7 +807,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.46400002, y: 0.4493122}
   m_AnchorMax: {x: 0.46400002, y: 0.4493122}
-  m_AnchoredPosition: {x: 22.417, y: 10}
+  m_AnchoredPosition: {x: 22.417, y: 19}
   m_SizeDelta: {x: 467.97, y: 158.85}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1894036568
@@ -966,8 +843,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'My friend Kevin needs a clean habitat to live in.  Let''s help by recycling
-    the trash around! '
+  m_Text: 'Don''t forget to look up at the score board! The more points we earn,
+    the closer I''ll get to earning my badge! '
 --- !u!222 &1894036569
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -976,25 +853,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1894036566}
   m_CullTransparentMesh: 1
---- !u!114 &1894036570
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1894036566}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8800c8b36441846fd88c6b64e0e28e5b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  dialogue:
-    dialogues:
-    - 'We will sort the recyclable items into plastic, cans, and paper! '
-    - Remember that plastic water bottles and milk cartons are examples of PLASTIC
-      waste
-    - ...while all metal cans, such as coca cola cans go into the CANS waste...
-    - 'And don''t forget to place any papers in the PAPER waste! '
 --- !u!1 &2102835226
 GameObject:
   m_ObjectHideFlags: 0
@@ -1028,7 +886,7 @@ RectTransform:
   - {fileID: 1894036567}
   - {fileID: 2127328309}
   m_Father: {fileID: 1151323820}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.2872106, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1085,7 +943,6 @@ GameObject:
   - component: {fileID: 2127328312}
   - component: {fileID: 2127328311}
   - component: {fileID: 2127328310}
-  - component: {fileID: 2127328313}
   m_Layer: 5
   m_Name: Button (Legacy)
   m_TagString: Untagged
@@ -1160,7 +1017,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1514277598}
         m_TargetAssemblyTypeName: mainMenu, Assembly-CSharp
-        m_MethodName: Continue2
+        m_MethodName: Continue4
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1208,22 +1065,3 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2127328308}
   m_CullTransparentMesh: 1
---- !u!114 &2127328313
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2127328308}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8800c8b36441846fd88c6b64e0e28e5b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  dialogue:
-    dialogues:
-    - 'We will sort the recyclable items into plastic, cans, and paper! '
-    - Remember that plastic water bottles and milk cartons are examples of PLASTIC
-      waste
-    - ...while all metal cans, such as coca cola cans go into the CANS waste...
-    - And don't forget to place any papers in the PLASTIC bin!

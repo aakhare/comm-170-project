@@ -11,6 +11,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/COMM 170 Weeks 7-10/01-Scenes/TrashTest.unity
     guid: 95ea98a3ee9e93344bb4754404802a53
+  - enabled: 1
+    path: Assets/COMM 170 Weeks 7-10/01-Scenes/Instr3.unity
+    guid: 4d04f9b76b64d49788d4a0a9c9f64057
+  - enabled: 1
+    path: Assets/COMM 170 Weeks 7-10/01-Scenes/Instr2.unity
+    guid: 2ab314a89315442799fd241736932bbf
+  - enabled: 1
+    path: Assets/COMM 170 Weeks 7-10/01-Scenes/Instr4.unity
+    guid: 650da0001c00a469781d198b9450af5d
+  - enabled: 1
+    path: Assets/COMM 170 Weeks 7-10/01-Scenes/Instructions.unity
+    guid: 8cc9af68d23ae48298100ff6b10efb14
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 445e633fbe16bdc4084ba7293b1b4bab,
       type: 2}
