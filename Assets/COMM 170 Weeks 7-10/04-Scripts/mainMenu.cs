@@ -31,6 +31,7 @@ public class mainMenu : MonoBehaviour
 
     public void Continue4(){
         UnityEngine.SceneManagement.SceneManager.LoadScene("TrashTest");
+        Debug.Log("Game start");
     }
     
     // Start is called before the first frame update
